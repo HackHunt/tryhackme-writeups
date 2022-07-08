@@ -1,4 +1,4 @@
-# [Anonforce TryHackMe Writeup/Walkthrough][1]
+# [Thompson TryHackMe Writeup/Walkthrough][1]
 
 boot2root machine for FIT and bsides guatemala CTF
 
